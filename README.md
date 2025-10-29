@@ -1,2 +1,4 @@
 # Evaluacion-2
-Evaluacion Telepresencia
+Evaluacion Telepresencia, pare ejecutar el script, primero debes de generar una API KEIS mediante grphhopper y una vez creada la cuenta se debe de generar la keys, junto a ello ya jenerada la keys debes de guardarla y modificar el codico colocando tu keys tras esto  debes ejecuatarlo mediante Visual Studio Code o Phyton 3 para luego ejecutar el script. a este codigo se le modifico y mejoro Traducir al español todos los textos de interacción con el usuario (solicitudes y respuestas) - Asegurar que todos los valores numéricos de salida (distancia, tiempo, etc.) se muestren con un máximo de dos decimales -Implementar una opción para que el usuario pueda salir del programa ingresando "s" o "salir" -El programa debe imprimir la narrativa del viaje (las instrucciones paso a paso) en español.
+
+
